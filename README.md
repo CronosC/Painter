@@ -1,11 +1,11 @@
 # Painter
 
-Setup:
+## Setup:
     - setup the env with conda
     - download a model (e.g. from civitai)
     - put into model folder, adjust path in run.py
 
-Running:
+## Running:
     - fill out prompt with one or more prompts. Each line is interpreted as one prompt. For each line one result .png is created.
     - fill HQ file with modifiers which are used for all prompts. Should only have one line. Can not be empty, but may be only a " "
     - fill negative file with one or more negative prompts. These inform the process on what to avoid. Can have multiple lines, each line is interpreted as one negative prompt. Each combination of prompt x negative prompt is created as one result file.
