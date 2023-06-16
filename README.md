@@ -1,4 +1,4 @@
-# stableDiffusionTesting
+# Painter
 
 Setup:
     - setup the env with conda
