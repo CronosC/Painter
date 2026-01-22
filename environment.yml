@@ -1,3 +1,8 @@
-name: sdv
+name: painter
 channels:
   - defaults
+dependencies:
+  - python=3.11
+  - diffusers
+  - transformers
+  - xformers

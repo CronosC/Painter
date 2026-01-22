@@ -1,0 +1,6 @@
+embeddings*
+models/*
+results/*
+prompts/x_*
+prompts/automatic/*
+__pycache__*
